@@ -33,19 +33,19 @@ p {
     font-size: 20px;
 }
 
-.categoria-videos {
+.secao-categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-.categoria {
+.secao-categoria {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
 
-.categoria-videos img {
+.secao-categoria-videos img {
     opacity: 0.5;
     height: 200px;
 }
